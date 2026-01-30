@@ -1,1 +1,1 @@
-# No code to write, the lecture just explains the difference between the overdetermined system and the undersetermined system.
+# No code to write, the lecture just explains the difference between the overdetermined system and the underdetermined system.
